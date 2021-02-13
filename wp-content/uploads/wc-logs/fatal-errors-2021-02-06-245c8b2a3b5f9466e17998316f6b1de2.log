@@ -1,0 +1,4 @@
+2021-02-06T15:58:06+00:00 CRITICAL Cannot redeclare my_remove_shop_from_breadcrumbs() (previously declared in C:\Program Files\Ampps\www\wp\wp-content\plugins\code-snippets\php\snippet-ops.php(446) : eval()'d code:1) in C:\Program Files\Ampps\www\wp\wp-content\themes\oceanwp-child\functions.php on line 35
+
+2021-02-06T17:06:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\wp\wp-content\plugins\woocommerce\templates\content-product.php on line 20
+

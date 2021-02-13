@@ -1,0 +1,6 @@
+2021-02-13T12:32:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\wp\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php on line 6
+
+2021-02-13T12:41:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\wp\wp-includes\Requests\Transport\cURL.php on line 463
+
+2021-02-13T13:05:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\wp\wp-includes\Requests\Transport\cURL.php on line 463
+

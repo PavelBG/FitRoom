@@ -1,0 +1,12 @@
+2021-02-07T10:46:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\wp\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\product-categories.asset.php on line 1
+
+2021-02-07T15:08:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\Program Files\Ampps\www\wp\wp-admin\includes\class-wp-site-icon.php on line 15
+
+2021-02-07T16:59:10+00:00 CRITICAL syntax error, unexpected '=' in C:\Program Files\Ampps\www\wp\wp-content\themes\oceanwp-child\functions.php on line 32
+
+2021-02-07T16:59:12+00:00 CRITICAL syntax error, unexpected '=' in C:\Program Files\Ampps\www\wp\wp-content\themes\oceanwp-child\functions.php on line 32
+
+2021-02-07T16:59:24+00:00 CRITICAL syntax error, unexpected '=' in C:\Program Files\Ampps\www\wp\wp-content\themes\oceanwp-child\functions.php on line 32
+
+2021-02-07T16:59:26+00:00 CRITICAL syntax error, unexpected '=' in C:\Program Files\Ampps\www\wp\wp-content\themes\oceanwp-child\functions.php on line 32
+
